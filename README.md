@@ -1,6 +1,7 @@
 # CSE-BUBBLE Processor
 
-The **CSE-BUBBLE Processor** is a custom-designed processor with a specific instruction set architecture (ISA) as detailed in Table 1 below. This repository contains the Verilog implementation of the processor, including the data path elements, finite state machine for control, and a single-cycle instruction execution unit. The processor's word size and instruction size are both 32 bits.
+The **CSE-BUBBLE Processor** is a custom-designed processor with a specific instruction set architecture (ISA). This repository contains the Verilog implementation of the processor, including the data path elements, finite state machine for control, and a single-cycle instruction execution unit. The processor's word size and instruction size are both 32 bits. 
+#### For more details about implementation read report of the project present in this repository.
 
 ## Table of Contents
 - [Introduction](#introduction)
